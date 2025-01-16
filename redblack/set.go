@@ -1,6 +1,6 @@
 package redblack
 
-import "github.com/fealsamh/datastructures/constraints"
+import "github.com/mailstepcz/datastructures/constraints"
 
 // Set is a generic red-black set.
 type Set[K constraints.Comparable[K]] Tree[K, struct{}]

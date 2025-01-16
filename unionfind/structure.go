@@ -3,9 +3,9 @@ package unionfind
 import (
 	"fmt"
 
-	"github.com/fealsamh/datastructures/constraints"
-	"github.com/fealsamh/datastructures/redblack"
-	"github.com/fealsamh/datastructures/sahuaro"
+	"github.com/mailstepcz/datastructures/constraints"
+	"github.com/mailstepcz/datastructures/redblack"
+	"github.com/mailstepcz/datastructures/sahuaro"
 )
 
 // Structure is a union-find structure.

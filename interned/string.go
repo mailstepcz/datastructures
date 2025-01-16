@@ -5,7 +5,7 @@ import (
 	"strings"
 	"unsafe"
 
-	"github.com/fealsamh/datastructures/unionfind"
+	"github.com/mailstepcz/datastructures/unionfind"
 )
 
 // String is an interned string.

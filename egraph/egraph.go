@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/fealsamh/datastructures/logic"
-	"github.com/fealsamh/datastructures/redblack"
-	"github.com/fealsamh/datastructures/sahuaro"
-	"github.com/fealsamh/datastructures/unionfind"
+	"github.com/mailstepcz/datastructures/logic"
+	"github.com/mailstepcz/datastructures/redblack"
+	"github.com/mailstepcz/datastructures/sahuaro"
+	"github.com/mailstepcz/datastructures/unionfind"
 )
 
 type eClassID int

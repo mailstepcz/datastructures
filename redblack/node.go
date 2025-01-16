@@ -3,7 +3,7 @@ package redblack
 import (
 	"fmt"
 
-	"github.com/fealsamh/datastructures/constraints"
+	"github.com/mailstepcz/datastructures/constraints"
 )
 
 type color byte
